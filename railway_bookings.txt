@@ -1,0 +1,26 @@
+[BOOKED] Train ID: 1, PNR: 1000
+PNR: 1000, Name: Neeraja, Age: 20, Gender: female, Coach: AC, Seat: 1, Fare: ₹1200.0
+PNR: 1000, Name: Naveen, Age: 17, Gender: male, Coach: AC, Seat: 2, Fare: ₹1200.0
+--------------------------------------------------
+[BOOKED] Train ID: 1, PNR: 1000
+PNR: 1000, Name: Neeraja, Age: 20, Gender: f, Coach: Sleeper, Seat: 1, Fare: ₹500.0
+PNR: 1000, Name: Naveen, Age: 17, Gender: m, Coach: Sleeper, Seat: 2, Fare: ₹500.0
+********************************************************[BOOKED] Train ID: 2, PNR: 1001
+PNR: 1001, Name: Sai, Age: 23, Gender: m, Coach: AC, Seat: 1, Fare: ₹1200.0
+PNR: 1001, Name: Theja, Age: 25, Gender: m, Coach: AC, Seat: 2, Fare: ₹1200.0
+********************************************************[CANCELLED] Train ID: 2, PNR: 1001
+PNR: 1001, Name: Sai, Age: 23, Gender: m, Coach: AC, Seat: 1, Fare: ₹1200.0
+PNR: 1001, Name: Theja, Age: 25, Gender: m, Coach: AC, Seat: 2, Fare: ₹1200.0
+********************************************************[BOOKED] Train ID: 1, PNR: 1000
+PNR: 1000, Name: Neeraja, Age: 20, Gender: f, Coach: AC, Seat: 1, Fare: ₹1200.0
+PNR: 1000, Name: Naveen, Age: 17, Gender: m, Coach: AC, Seat: 2, Fare: ₹1200.0
+********************************************************[CANCELLED] Train ID: 1, PNR: 1000
+PNR: 1000, Name: Neeraja, Age: 20, Gender: f, Coach: AC, Seat: 1, Fare: ₹1200.0
+PNR: 1000, Name: Naveen, Age: 17, Gender: m, Coach: AC, Seat: 2, Fare: ₹1200.0
+********************************************************[BOOKED] Train ID: 1, PNR: 1000
+PNR: 1000, Name: Neeraja, Age: 20, Gender: f, Coach: Sleeper, Seat: 1, Fare: ₹500.0
+PNR: 1000, Name: Naveen, Age: 18, Gender: m, Coach: Sleeper, Seat: 2, Fare: ₹500.0
+********************************************************[BOOKED] Train ID: 2, PNR: 1001
+PNR: 1001, Name: Sai, Age: 23, Gender: m, Coach: AC, Seat: 1, Fare: ₹1200.0
+PNR: 1001, Name: Theja, Age: 25, Gender: m, Coach: AC, Seat: 2, Fare: ₹1200.0
+********************************************************
